@@ -261,4 +261,4 @@ def guess_number():
     print('Sorry, you failed to guess the number in five attempts.')
 
 # Call the function
-guess_number()
+# guess_number()
